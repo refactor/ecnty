@@ -3,6 +3,7 @@
 deps/*
 apps/ecnty/ebin
 *~
+*.swp
 dev/*
 doc/*
 rel/ecnty
